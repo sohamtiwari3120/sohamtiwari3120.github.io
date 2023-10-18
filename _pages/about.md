@@ -33,7 +33,7 @@ I have also worked with [Prof Chng Eng Siong](https://personal.ntu.edu.sg/asesch
 
 My current aim is to maximize my learning, enhance my depth and breadth and use the knowledge to research and develop applications that deliver pleasant end-user experiences.
 
-My drive to keep on learning and appreciation of the importance of teamwork and collaborative progress will help me achieve my goal of creating meaningful technology that makes everyone's lives better :sunny:. 
+My drive to keep on learning and appreciation of the importance of teamwork and collaborative progress will help me achieve my goal of creating meaningful technology that makes everyone's lives better ☀️. 
 
 
 <blockquote cite="https://www.cmu.edu/about/today-we-work/index.html">
