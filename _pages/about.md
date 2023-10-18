@@ -31,7 +31,7 @@ My interests and past work lie in
 
 I have presented my [research](https://scholar.google.com/citations?user=oVO9OCsAAAAJ&hl=en&authuser=1) in various workshops and conferences like <b>ACL, ISLS, APSIPA, </b> and <b>NeurIPS.</b> 
 
-My efforts at CMU have been focused on various aspects of interactive intelligence, where I am working towards an on-device multimodal, virtual teaching assistant.
+My efforts at CMU have been focused on various aspects of interactive intelligence, where I am working towards an on-device multimodal, virtual teaching assistant, advised by [Prof Carolyn Rose](http://www.cs.cmu.edu/~cprose/). 
  
 My internship project at  Apple was an effort to investigate how to run LLMs on a device. I built a Jax-based online-model distillation framework for distilling LLMs on distributed GPUs and identified limitations of the popular  [TinyBERT](https://arxiv.org/abs/1909.10351) distillation algorithm for decoder-style LLMs.
 
