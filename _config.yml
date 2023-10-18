@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Soham Dinesh Tiwari"
   avatar           : "soham_profile.png"
-  bio              : "Master's student at the Language Technologies Institute, CMU | Ex - Apple MLE NL Intern | B.Tech (Hons) Computer Science and Engineering, Manipal, India"
+  bio              : "Master's student at CMU LTI | Ex - Apple MLE NL Intern"
   location         : "Pittsburgh, PA, USA"
-  employer         : ""
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oVO9OCsAAAAJ&hl=en&authuser=1"
   email            : "soham.tiwari800@gmail.com"
