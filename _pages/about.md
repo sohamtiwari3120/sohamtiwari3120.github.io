@@ -28,6 +28,7 @@ My interests and past work lie in
 - Natural Language Processing
 - Reinforcement Learning
 - Artificial Social Intelligence
+
 My [research](https://scholar.google.com/citations?user=oVO9OCsAAAAJ&hl=en&authuser=1) has been presented at conferences like <b>ACL, ISLS, APSIPA, </b> and <b>NeurIPS.</b> 
 
 My efforts at CMU have been focused on various aspects of interactive intelligence, where I am working towards an on-device multimodal, virtual teaching assistant.
