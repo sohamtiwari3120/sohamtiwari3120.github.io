@@ -29,7 +29,7 @@ On the other hand, I am also working towards enhancing my breadth by taking cour
 
 My internship project at  Apple was an effort to investigate how to run LLMs on a device. I built a Jax-based online-model distillation framework for distilling LLMs on distributed GPUs and identified limitations of the popular  [TinyBERT](https://arxiv.org/abs/1909.10351) distillation algorithm for decoder-style LLMs.
 
-I have also worked with (Prof Chng Eng Siong)[https://personal.ntu.edu.sg/aseschng/default.html] from NTU Singapore, on improving speech and audio representations and using a curriculum-learning based approach to enhance model convergence.
+I have also worked with [Prof Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html) from NTU Singapore, on improving speech and audio representations and using a curriculum-learning based approach to enhance model convergence.
 
 My current aim is to maximize my learning, enhance my depth and breadth and use the knowledge to research and develop applications that deliver pleasant end-user experiences.
 
