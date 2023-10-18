@@ -21,19 +21,15 @@ redirect_from:
 
 I am a graduate student at the Language Technologies Institute (LTI), Carnegie Mellon University. 
 
-My research interests lie in Large Language Models, Multimodal Machine Learning, Audio-based interactions, and Natural Language Processing. My research has been presented at conferences like ACL,  ISLS, APSIPA, and NeurIPS. 
+My interests lie in <ul> <li>Large Language Models</li> <li>Multimodal Machine Learning</li>  <li>Audio-based interactions</li>  <li>Natural Language Processing</li>  <li>Reinforcement Learning</li>  <li>Artificial Social Intelligence</li>  </ul>. My research has been presented at conferences like <b>ACL, ISLS, APSIPA, </b> and <b>NeurIPS.</b> 
 
-My efforts at CMU have been focused on various aspects of interactive intelligence. Be it my current capstone, where I am working towards an on-device multimodal,  virtual teaching assistant, or the courses I took like Artificial Social Intelligence, where I actively participated in discussions on realizing social intelligence in AI. 
-
-On the other hand, I am also working towards enhancing my breadth by taking courses like Deep Reinforcement Learning and learning about Large Language Models (LLMs). 
-
+My efforts at CMU have been focused on various aspects of interactive intelligence, where I am working towards an on-device multimodal, virtual teaching assistant.
+ 
 My internship project at  Apple was an effort to investigate how to run LLMs on a device. I built a Jax-based online-model distillation framework for distilling LLMs on distributed GPUs and identified limitations of the popular  [TinyBERT](https://arxiv.org/abs/1909.10351) distillation algorithm for decoder-style LLMs.
 
 I have also worked with [Prof Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html) from NTU Singapore, on improving speech and audio representations and using a curriculum-learning based approach to enhance model convergence.
 
-My current aim is to maximize my learning, enhance my depth and breadth and use the knowledge to research and develop applications that deliver pleasant end-user experiences.
-
-My drive to keep on learning and appreciation of the importance of teamwork and collaborative progress will help me achieve my goal of creating meaningful technology that makes everyone's lives better ☀️. 
+My current aim is to maximize my learning, enhance my depth and breadth and use the knowledge to research and develop applications that deliver pleasant end-user experiences. In addition, my appreciation of the importance of teamwork and collaborative progress will help me achieve my goal of creating meaningful technology that makes everyone's lives better ☀️. 
 
 
 <blockquote cite="https://www.cmu.edu/about/today-we-work/index.html">
