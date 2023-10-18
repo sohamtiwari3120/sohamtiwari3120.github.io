@@ -21,7 +21,14 @@ redirect_from:
 
 I am a graduate student at the Language Technologies Institute (LTI), Carnegie Mellon University. 
 
-My interests lie in <ul> <li>Large Language Models</li> <li>Multimodal Machine Learning</li>  <li>Audio-based interactions</li>  <li>Natural Language Processing</li>  <li>Reinforcement Learning</li>  <li>Artificial Social Intelligence</li>  </ul>. My research has been presented at conferences like <b>ACL, ISLS, APSIPA, </b> and <b>NeurIPS.</b> 
+My interests and past work lie in
+- Large Language Model
+- Multimodal Machine Learning
+- Audio-based interactions
+- Natural Language Processing
+- Reinforcement Learning
+- Artificial Social Intelligence
+My research has been presented at conferences like <b>ACL, ISLS, APSIPA, </b> and <b>NeurIPS.</b> 
 
 My efforts at CMU have been focused on various aspects of interactive intelligence, where I am working towards an on-device multimodal, virtual teaching assistant.
  
