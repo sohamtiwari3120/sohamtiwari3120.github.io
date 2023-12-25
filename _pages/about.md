@@ -37,7 +37,7 @@ My internship project at  Apple was an effort to investigate how to run LLMs 
 
 I have also worked with [Prof Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html) from NTU Singapore, on improving speech and audio representations and using a curriculum-learning based approach to enhance model convergence.
 
-My current aim is to maximize my learning, enhance my depth and breadth and use the knowledge to research and develop applications that deliver pleasant end-user experiences. In addition, my appreciation of the importance of teamwork and collaborative progress will help me achieve my goal of creating meaningful technology that makes everyone's lives better ☀️. 
+My current aim is to maximize my learning, enhance my depth and breadth, and use the knowledge to research and develop applications that deliver pleasant end-user experiences. In addition, my appreciation of the importance of teamwork and collaborative progress will help me achieve my goal of creating meaningful technology that makes everyone's lives better ☀️. 
 
 
 <blockquote cite="https://www.cmu.edu/about/today-we-work/index.html">
