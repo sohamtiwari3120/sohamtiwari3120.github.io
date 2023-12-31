@@ -11,9 +11,19 @@ author_profile: true
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. Honors in Computer Science and Engineering, Manipal Institute of Technology, 2022
+  * Minor in Computational Mathematics
+  * Advised by Prof. Manjunath Mulimani
+* M.S. in Intelligent Information Systems, Carnegie Mellon University, 2023
+  * Advised by Prof. Carolyn Rose
+  * Courses:
+    * Advanced Natural Language Processing
+    * Multimodal Machine Learning
+    * Intro to ML (PhD)
+    * Advanced Question Answering
+    * Speech Recogntion and Understanding
+    * Artificial Social Intelligence
+    * Deep Reinforcement Learning
 
 Work experience
 ======
@@ -29,12 +39,40 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * C/C++
+  * Java
+  * Python
+  * Swift
+  * Bash
+  * SQL
+  * JavaScript
+* Python Tools and Frameworks
+  * PyTorch
+  * TensorFlow
+  * Jax
+  * Kubernetes
+  * Audacity
+  * Librosa
+  * Espnet
+  * Torchaudio
+  * spaCy
+  * NLTK
+  * Pandas
+  * Scikit-learn
+  * Streamlit
+  * Matplotlib
+  * Numpy
+  * SciPy
+  * Flask
+  * Django
+  * FastAPI
+* Cloud and Web Tools
+  * AWS
+  * Microsoft Azure
+  * GCP
+  * Wandb
+  * OpenAI
 
 Publications
 ======
