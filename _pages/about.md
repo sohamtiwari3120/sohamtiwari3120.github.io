@@ -19,15 +19,19 @@ redirect_from:
 
 👋 Hello there! I am Soham (so-hum). Pleased to meet you! 
 
-I am a graduate student at the Language Technologies Institute (LTI), Carnegie Mellon University. 
+I am a Data Scientist at AppZen. As part of the expense audit team, I am building models leveraging transformers and LLMs to train models that better categorize documents. 
+
+I have recently delivered a fraud-detection model, that leverages Naive Bayes, expertise in Probability Theory, and Llama-3.1 for identifying fraudlent submissions to automated expense platform. 
+
+I graduated from Language Technologies Institute (LTI), Carnegie Mellon University in 2022.
 
 My interests and past work lie in
-- Large Language Model
+- Large Language Model distillation and post-training fine-tuning.
 - Multimodal Machine Learning
-- Audio-based interactions
+- LLM based applications enablingAudio-based interactions
 - Natural Language Processing
 - Reinforcement Learning
-- Artificial Social Intelligence
+- Artificial Social Intelligence (my dream is to build the an Agent that is as socially intelligent as humans)
 
 I have presented my [research](https://scholar.google.com/citations?user=oVO9OCsAAAAJ&hl=en&authuser=1) in various workshops and conferences like <b>ACL, ISLS, APSIPA, </b> and <b>NeurIPS.</b> 
 

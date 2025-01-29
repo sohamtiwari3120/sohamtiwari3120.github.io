@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Resume"
-permalink: /resume/
+title: "CV"
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /cv
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my resume [here](http://sohamdtiwari.com/files/resume.pdf).
+You can find my CV [here](http://sohamdtiwari.com/files/cv.pdf).
