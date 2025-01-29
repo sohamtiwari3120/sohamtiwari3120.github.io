@@ -16,7 +16,6 @@ redirect_from:
 <b>On a hunt for full-time machine learning and software engineering roles for <u>January 2024</u>, where I can contribute intellectually to solve challenging problems :) !!!</b>
 -->
 
-## About Me
 👋 Hey there! I’m Soham (so-hum). Pleased to meet you!
 
 I’m a Data Scientist at AppZen, where I work on expense auditing by leveraging transformers and LLMs to improve document categorization. Recently, I delivered a fraud detection model that combines Naïve Bayes, Probability Theory, and Llama-3.1 to identify fraudulent submissions in automated expense platforms.
@@ -40,7 +39,6 @@ I also collaborated with [Prof Chng Eng Siong](https://personal.ntu.edu.sg/asesc
 
 ## Looking Ahead
 My goal is to maximize my learning, deepen my expertise, and develop applications that enhance user experiences. I believe in the power of collaboration and meaningful technology to make everyday life better ☀️.
-
 
 <blockquote cite="https://www.cmu.edu/about/today-we-work/index.html">
   <p>Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.</p>
