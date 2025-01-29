@@ -16,32 +16,30 @@ redirect_from:
 <b>On a hunt for full-time machine learning and software engineering roles for <u>January 2024</u>, where I can contribute intellectually to solve challenging problems :) !!!</b>
 -->
 
+## About Me
+👋 Hey there! I’m Soham (so-hum). Pleased to meet you!
 
-👋 Hello there! I am Soham (so-hum). Pleased to meet you! 
+I’m a Data Scientist at AppZen, where I work on expense auditing by leveraging transformers and LLMs to improve document categorization. Recently, I delivered a fraud detection model that combines Naïve Bayes, Probability Theory, and Llama-3.1 to identify fraudulent submissions in automated expense platforms.
 
-I am a Data Scientist at AppZen. As part of the expense audit team, I am building models leveraging transformers and LLMs to train models that better categorize documents. 
+I earned my Master’s from Carnegie Mellon University (CMU) in 2022, specializing in Language Technologies. My research interests include:
 
-I have recently delivered a fraud-detection model, that leverages Naive Bayes, expertise in Probability Theory, and Llama-3.1 for identifying fraudlent submissions to automated expense platform. 
+LLM distillation & fine-tuning
+Multimodal Machine Learning
+LLM-based audio interactions
+Natural Language Processing
+Reinforcement Learning
+Artificial Social Intelligence (My dream is to build an agent as socially intelligent as humans!)
 
-I graduated from Language Technologies Institute (LTI), Carnegie Mellon University in 2022.
 
-My interests and past work lie in
-- Large Language Model distillation and post-training fine-tuning.
-- Multimodal Machine Learning
-- LLM based applications enablingAudio-based interactions
-- Natural Language Processing
-- Reinforcement Learning
-- Artificial Social Intelligence (my dream is to build the an Agent that is as socially intelligent as humans)
+## Research & Experience
+I have presented my [research](https://scholar.google.com/citations?user=oVO9OCsAAAAJ&hl=en&authuser=1) at ACL, ISLS, APSIPA, and NeurIPS. My work at CMU focused on interactive intelligence, where I developed an on-device multimodal virtual teaching assistant under the guidance of [Prof Carolyn Rose](http://www.cs.cmu.edu/~cprose/).
 
-I have presented my [research](https://scholar.google.com/citations?user=oVO9OCsAAAAJ&hl=en&authuser=1) in various workshops and conferences like <b>ACL, ISLS, APSIPA, </b> and <b>NeurIPS.</b> 
+During my internship at Apple , I explored on-device LLMs, building a Jax-based online distillation framework for distributed GPUs and evaluating the TinyBERT distillation algorithm for decoder-based models.
 
-My efforts at CMU have been focused on various aspects of interactive intelligence, where I am working towards an on-device multimodal, virtual teaching assistant, advised by [Prof Carolyn Rose](http://www.cs.cmu.edu/~cprose/). 
- 
-My internship project at  Apple was an effort to investigate how to run LLMs on a device. I built a Jax-based online-model distillation framework for distilling LLMs on distributed GPUs and identified limitations of the popular  [TinyBERT](https://arxiv.org/abs/1909.10351) distillation algorithm for decoder-style LLMs.
+I also collaborated with [Prof Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html) at NTU Singapore on speech and audio representations, using a curriculum-learning approach to improve model convergence.
 
-I have also worked with [Prof Chng Eng Siong](https://personal.ntu.edu.sg/aseschng/default.html) from NTU Singapore, on improving speech and audio representations and using a curriculum-learning based approach to enhance model convergence.
-
-My current aim is to maximize my learning, enhance my depth and breadth, and use the knowledge to research and develop applications that deliver pleasant end-user experiences. In addition, my appreciation of the importance of teamwork and collaborative progress will help me achieve my goal of creating meaningful technology that makes everyone's lives better ☀️. 
+## Looking Ahead
+My goal is to maximize my learning, deepen my expertise, and develop applications that enhance user experiences. I believe in the power of collaboration and meaningful technology to make everyday life better ☀️.
 
 
 <blockquote cite="https://www.cmu.edu/about/today-we-work/index.html">
